@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2020-04-10T16:32:37.488Z</updated>
+  <updated>2020-04-11T16:07:17.019Z</updated>
   <id>/</id>
   
   <author>
@@ -17,18 +17,30 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>github</title>
-    <link href="/2020/04/10/github/"/>
-    <id>/2020/04/10/github/</id>
-    <published>2020-04-10T16:32:37.000Z</published>
-    <updated>2020-04-10T16:32:37.488Z</updated>
+    <title>Github Access Slow Solution</title>
+    <link href="/2020/04/11/Github-Access-Slow-Solution/"/>
+    <id>/2020/04/11/Github-Access-Slow-Solution/</id>
+    <published>2020-04-11T14:32:58.000Z</published>
+    <updated>2020-04-11T16:07:17.019Z</updated>
     
     <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;win10系统：&lt;/p&gt;
+&lt;p&gt;编辑 C:\Windows\System32\drivers\etc\hosts，添加内容：&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;TEXT&quot;&gt;151.101.76.249 github.global-ssl.fastly.net 
+        
+      
     
     </summary>
     
       <category term="tech" scheme="/categories/tech/"/>
     
+    
+      <category term="github" scheme="/tags/github/"/>
     
   </entry>
   
