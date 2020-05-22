@@ -1256,6 +1256,7 @@ var home = location.href,
           $('.headertop').css({
             'height': '0px'
           }).hide()
+          //$('.headertop').remove()
           Siren.livepause()
         }
       }
