@@ -839,6 +839,12 @@ td,th {
     border: 1px solid #ddd;
     height: 2.5em;
 }
+
+code td,code th {
+    border: 0px;
+    height: 2em;
+}
+
 body,button,input,select,textarea {
     color:#404040;
     font-size:15px;
